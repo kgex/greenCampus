@@ -1,4 +1,4 @@
-# Project Title
+# Green Campus
 
 A short description of your project goes here.
 
@@ -26,6 +26,24 @@ $ command-to-run-your-project arg1 arg2
 If your project requires configuration, provide details on how users can configure it. Include information about configuration files and environment variables.
 
 ```markdown
+## Configuration Guide: Setting up Rak PiHat Firmware and ChirpStack Connection
+
+### 1. Initial Setup
+
+1. **Download Firmware:**
+   - Download the Rak PiHat firmware from [here](https://drive.google.com/file/d/1MoqZ3JeULfrjy7yOFgUPQUoxvpd3ceYY/view?usp=sharing).
+
+2. **Connect to Rakwireless_FF13:**
+   - Connect your PC network to the Rakwireless_FF13 network.
+
+### 2. SSH Connection to Gateway
+
+Use the following commands to connect to the gateway via SSH:
+
+```bash
+ssh pi@192.168.230.1
+# Default Username: pi
+# Default Password: raspberry
 ## Configuration
 
 1. Open the `config.yml` file.
