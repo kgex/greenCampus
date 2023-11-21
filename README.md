@@ -1,6 +1,8 @@
 # Green Campus
 
-A short description of your project goes here.
+The project aims to deploy and configure IoT devices (Rak PiHat) within a LoRaWAN network environment, facilitating seamless connectivity and data transmission for environmental monitoring. Leveraging ChirpStack as the central server, this setup enables real-time monitoring of temperature, air quality, and other environmental parameters across various locations.
+
+
 
 ## Table of Contents
 
