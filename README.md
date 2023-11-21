@@ -1,4 +1,4 @@
-# Green Camapus
+# Green Campus
 
 A short description of your project goes here.
 
@@ -28,3 +28,17 @@ Use SSH to connect to the gateway:
 ssh pi@192.168.230.1
 # Default Username: pi
 # Default Password: raspberry
+
+### 3.Gateway Configuration
+
+ 1. **Gateway Configuration:**
+   - Once connected, access the Rak Gateway shell:
+ ```bash
+sudo gateway-config
+
+
+
+
+
+
+
